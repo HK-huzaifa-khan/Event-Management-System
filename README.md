@@ -99,3 +99,17 @@ Messages are stored in database (contact_submissions table)
 User Dashboard: Shows bookings and events
 
 Admin Dashboard: Manage system data
+
+
+
+
+
+This project is a complete event booking web system that demonstrates:
+
+Backend development (Flask)
+
+Database handling (PostgreSQL)
+
+User authentication
+
+Real-world booking logic
